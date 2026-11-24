@@ -1,0 +1,1 @@
+v2.7.0: Brain no longer replays your most embarrassing moment from 2014 at 3 a.m. — it still does, just now in higher resolution.
